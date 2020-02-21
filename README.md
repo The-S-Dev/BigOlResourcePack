@@ -42,7 +42,7 @@ All terracota blocks have been re-textured to have a more lighter look.
 Pink glazed terracota has been re-textured to appear as a block of BigOlBill's face.
 
 # Cactus
-Catus has been re-textured to its original texture
+Catus has been re-textured to its original texture before the texture update
 
 # Sweet Berrys
 Sweet berrys have been re-textured to have yello smiley faces where the red berrys previously would have been.
