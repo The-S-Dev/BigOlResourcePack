@@ -127,3 +127,6 @@ Green Glazed Terracots has been re-textured to TheScientist's Face (Creator pf t
 
 # The Creeper Face Firework
 The Creeper Face firework has been re-texured to look like BigOlBill's face.
+
+# Jungle Buttons
+Jungle buttons have been re-textured to look like big red buttons instead
